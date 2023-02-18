@@ -1,0 +1,12 @@
+{
+  "name": "single_line_logger",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/sabry-awad97/single_line_logger_rust.git",
+  "author": "Sabry Awad <dr.sabry1997@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^18.14.0",
+    "date-fns": "^2.29.3"
+  }
+}
